@@ -21,7 +21,23 @@ In the category *Theatre*, the outcomes of campaigns have been analysed using da
 
 In the category Theatre, the largest number of campaigns were launched in May, June, and July (respectively). The graph ***Theater Outcomes Based on Launch Date*** visualizes the rise in successful campaigns in the months May, June, and July.
 
+![***Theater Outcomes Based on Launch Date***](Resources/Theater_Outcomes_vs_Launch.png)
 
+The graph visualizes an increase in the number of campaigns launched between May to July. The campaigns launched between May and July also show an increase in a successful outcome of campaigns run. Therefore, campaigns which are launched in May, June, or July tend to have a *successful* outcome. 
 
 
 ### Analysis of Outcomes Based on Goals
+
+Using the data provided from 2009 to 2017 for the subcategory *Plays* within the parent category *Theatre*, a graph has been created to depict the success, failure and cancelation rate based on the fundraising goals of the campaigns.
+
+The graph ***Outcomes Based on Goal***, showcases the fact that campaigns with larger fundraising goals, tend to have a higher failure rate and campaigns with lower fundraising goals, tend to have a higher success rate. 
+
+The graph depicts, that campaigns launched between 2009 and 2017, have been the most successful when the fundraising goal was lower than $15,000, and when the goals were between $35,000 to $45,000. 
+
+Campaigns had the highest failure rates when the fundraising goals were between $15,000 to $35,000, and when they were higher than $45,000. 
+No campaigns for the subcategory *Plays* have been canceled within this time frame. 
+
+To further visualize this information, in the table of information, fields in which the success rate was **over** 50% are blue, fields in which the failure rate was **below** 50%, are in orange.
+
+
+
