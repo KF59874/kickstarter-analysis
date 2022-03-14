@@ -1,5 +1,7 @@
 # Kickstarting with Excel
 
+Please find here the link to the excel spreadsheet [*Kickstarter Challenge*](Kickstarter_Challenge.zip).
+
 ## 1. Overview of Project 
 
 ### Purpose 
@@ -70,8 +72,3 @@ For the analysis for *Outcomes Based on Goals*, it can be difficult to denote th
 -	To get a better understanding of the data, I would create an additional table for the analysis of *Outcomes Based on Launch Date* to showcase the percentage rates of successful, failed, and canceled campaigns. This information would strengthen the graph’s visual outcome.
 -	An additional graph can be created for *Outcomes Based on Launch Date* and to filter *plays* only. 
 -	A graph can be created to combine the data for both outcomes: *Outcomes Based on Launch Date and Goal* to show case whether there is a relation between both. 
-
-## 4. Link to the Excel Spreadsheet
-Please find here the link to the excel spreadsheet [*Kickstarter Challenge*](Kickstarter_Challenge.zip).
-
- 
