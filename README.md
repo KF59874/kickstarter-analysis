@@ -1,6 +1,3 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends.
-
 # Kickstarting with Excel
 
 ## 1. Overview of Project 
@@ -34,18 +31,23 @@ The graph ***Outcomes Based on Goal***, showcases the fact that campaigns with l
 
 ![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png) 
 
+#### Successful Outcome 
 The graph depicts, that campaigns launched between 2009 and 2017, have been the most successful when the fundraising goal was lower than $15,000, and when the goals were between $35,000 to $45,000. 
 
+#### Failed Outcome 
 Campaigns had the highest failure rates when the fundraising goals were between $15,000 to $35,000, and when they were higher than $45,000. 
 
+#### Canceled Outcome
 No campaigns for the subcategory *Plays* have been canceled within this time frame. 
 
 ### Challenges and Difficulties Encountered
 
 When analyzing the data for *Outcomes Based on Launch Date* and *Outcomes Based on Goals*, it was sometimes difficult the denote the detailed percentage rates by looking at the graphs only. This hindered a detailed analysis. 
 
-To combat these challenges, I would recommend creating an additional table for *Outcomes Based on Launch Date* to denote the success, failure, and cancelation percentage rates based on which month of the year campaigns have been launched. This will aid in having a stronger base for the outcome. 
+#### Outcomes Based on Launch Date
+To combat these challenges, I would recommend creating an additional table for *Outcomes Based on Launch Date* to denote the success, failure, and cancelation percentage rates based on which month of the year campaigns have been launched. This will aid in having a stronger base for the outcome of the analysis.
 
+#### Outcomes Based on Goals
 For the analysis for *Outcomes Based on Goals*, it can be difficult to denote the exact percentage rates using the graph only. To combat this, I used *Conditional Formatting* for the table in *Outcomes Based on Launch Date* to visualize the percentage rates. Fields in which the success rate was **over** 50% are blue, fields in which the failure rate was **below** 50%, are in orange.
 
 ## 3. Results
@@ -68,3 +70,6 @@ For the analysis for *Outcomes Based on Goals*, it can be difficult to denote th
 -	To get a better understanding of the data, I would create an additional table for the analysis of *Outcomes Based on Launch Date* to showcase the percentage rates of successful, failed, and canceled campaigns. This information would strengthen the graph’s visual outcome.
 -	An additional graph can be created for *Outcomes Based on Launch Date* and to filter *plays* only. 
 -	A graph can be created to combine the data for both outcomes: *Outcomes Based on Launch Date and Goal* to show case whether there is a relation between both. 
+
+## Excel Spreadsheet
+Please find below the link to the excel spreadsheet 
