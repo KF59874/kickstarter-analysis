@@ -71,5 +71,7 @@ For the analysis for *Outcomes Based on Goals*, it can be difficult to denote th
 -	An additional graph can be created for *Outcomes Based on Launch Date* and to filter *plays* only. 
 -	A graph can be created to combine the data for both outcomes: *Outcomes Based on Launch Date and Goal* to show case whether there is a relation between both. 
 
-## Excel Spreadsheet
-Please find below the link to the excel spreadsheet 
+## 4. Link to the Excel Spreadsheet
+Please find here the link to the excel spreadsheet [*Kickstarter Challenge*](Kickstarter_Challenge.zip).
+
+ 
